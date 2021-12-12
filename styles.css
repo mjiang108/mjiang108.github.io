@@ -5,6 +5,7 @@ body {
   align-items: center;
   text-align: center;
   font-family: 'Cabin Sketch', sans-serif;
+  position: relative;
 }
 
 a {
@@ -21,6 +22,6 @@ a {
 
 footer {
   position: absolute;
-  bottom: 0;
+  bottom: 0px;
   color: gray;
 }

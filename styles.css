@@ -4,6 +4,11 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
+  font-family: 'Cabin Sketch', sans-serif;
+}
+
+a {
+  color: unset;
 }
 
 .icons-container {
@@ -14,4 +19,5 @@ body {
 footer {
   position: absolute;
   bottom: 0;
+  color: gray;
 }

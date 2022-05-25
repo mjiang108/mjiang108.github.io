@@ -6,6 +6,7 @@ body {
   text-align: center;
   font-family: 'Cabin Sketch', sans-serif;
   position: relative;
+  margin: 0;
 }
 
 a {
